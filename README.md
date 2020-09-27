@@ -1,3 +1,3 @@
 # Simon-Game
 
-![](TinDog.gif)
+![](Simon-Game.gif)
